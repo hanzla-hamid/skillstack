@@ -1,0 +1,66 @@
+import { h as require_jsx_runtime } from "../_libs/@radix-ui/react-accordion+[...].mjs";
+import { t as LegalPage } from "./LegalPage-BwGq-tlV.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/code-of-conduct-DmclWBHk.js
+var import_jsx_runtime = require_jsx_runtime();
+var sections = [
+	{
+		heading: "Our Commitment",
+		body: ["SkillStack is committed to providing a safe, inclusive, and respectful learning environment for all students, instructors, and staff. This Code of Conduct outlines the standards of behavior we expect from every member of our community.", "By enrolling in any SkillStack program, you agree to uphold these standards both in physical classrooms and in online interactions."]
+	},
+	{
+		heading: "Respect and Inclusion",
+		body: [
+			"Treat all individuals with dignity and respect, regardless of their background, gender, religion, ethnicity, age, or skill level.",
+			"Discrimination, harassment, or bullying of any kind will not be tolerated. This includes verbal, written, or online behavior.",
+			"Embrace diversity of thought and experience. SkillStack is a learning community where everyone should feel valued and heard."
+		]
+	},
+	{
+		heading: "Academic Integrity",
+		body: [
+			"All work you submit must be your own. Plagiarism, copying from peers, or submitting AI-generated work as your own without disclosure is strictly prohibited.",
+			"Collaboration is encouraged where explicitly permitted, but each student must clearly credit contributors.",
+			"Cheating on assessments or exams will result in immediate disciplinary action, up to and including dismissal from the program."
+		]
+	},
+	{
+		heading: "Professional Behavior",
+		body: [
+			"Arrive on time for physical and online classes. Notify your instructor in advance if you will be absent.",
+			"Keep classrooms and shared spaces clean. Do not disrupt ongoing sessions.",
+			"Use appropriate language in all communications, including chat, forums, and email. Do not spam or send unsolicited messages."
+		]
+	},
+	{
+		heading: "Respect for Property",
+		body: [
+			"Do not share, distribute, or resell course materials, videos, or resources provided by SkillStack. These are licensed for your personal learning use only.",
+			"Do not attempt to access systems, accounts, or data that you are not authorized to use.",
+			"Report any security concerns or suspicious activity to SkillStack staff immediately."
+		]
+	},
+	{
+		heading: "Reporting Violations",
+		body: ["If you witness or experience behavior that violates this Code of Conduct, report it to SkillStack staff or through our contact email. All reports are treated confidentially.", "Retaliation against anyone who reports a violation in good faith is itself a violation of this Code."]
+	},
+	{
+		heading: "Consequences of Violations",
+		body: [
+			"Violations may result in a verbal warning, written warning, suspension from classes, or dismissal from the program, depending on severity.",
+			"Serious violations including harassment, theft, or academic dishonesty may result in immediate dismissal without refund.",
+			"SkillStack reserves the right to determine the appropriate response to any violation."
+		]
+	}
+];
+function CodeOfConductPage() {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(LegalPage, {
+		title: "Code of",
+		highlight: "Conduct",
+		eyebrow: "Community",
+		lastUpdated: "August 2026",
+		sections
+	});
+}
+var SplitComponent = CodeOfConductPage;
+//#endregion
+export { SplitComponent as component };
