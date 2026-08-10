@@ -1,0 +1,9 @@
+-- ===========================================================================
+-- REFERENCE ONLY — DO NOT EDIT OR EXECUTE THIS FILE DIRECTLY
+--
+-- The authoritative schema source for SkillStack is the consolidated Supabase migration:
+-- supabase/migrations/20260810071438_38b53c20-bff5-407a-bc11-0fc3ca890a12.sql
+--
+-- All database changes, RLS policies, functions, and authorization rules
+-- must be maintained in the Supabase migrations directory.
+-- ===========================================================================
