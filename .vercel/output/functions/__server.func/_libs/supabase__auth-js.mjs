@@ -1,6 +1,6 @@
 import { __rest } from "tslib";
 //#region node_modules/@supabase/auth-js/dist/module/lib/version.js
-var version = "2.112.2";
+var version = "2.112.3";
 //#endregion
 //#region node_modules/@supabase/auth-js/dist/module/lib/constants.js
 /** Current session will be checked for refresh at this interval. */

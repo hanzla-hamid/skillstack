@@ -1,4 +1,4 @@
-import { d as supabase } from "./router-CotFlDs_.mjs";
+import { d as supabase } from "./router-BsmUf-rF.mjs";
 //#region node_modules/.nitro/vite/services/ssr/assets/content-BoIgMibb.js
 /**
 * Editorial articles shipped with the site. Used to fill the Knowledge Hub when
